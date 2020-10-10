@@ -1,1 +1,1 @@
-編輯large圖檔
+編輯large,jfif圖檔
