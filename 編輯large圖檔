@@ -1,9 +1,0 @@
-@echo off
-Title 編輯large圖檔
-echo 將要處理與此bat同位置所有的large圖檔
-pause
-rename *.jpg-large *jpg
-rename *.png-large *png
-pause
-echo 完成:)
-pause
